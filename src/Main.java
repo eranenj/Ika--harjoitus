@@ -9,7 +9,7 @@ public class Main {
             System.out.println("Olet alaikäinen");
         // Tässä katsotaan onko henkilö tarpeeksi vanha ajamaan mopolla.    
             if (ika >= 15) {
-                System.out.println("Saat ajaa mopoa");
+                System.out.println("Saat ajaa skootteria");
             }
         // Tämä ohjelma tarkistaa onko henkilö täysi-ikäinen ja tulostaa sen mukaisen viestin. Onnittelee myös tietyn iän saavuttaneita.    
         } else if (ika == 100) {
