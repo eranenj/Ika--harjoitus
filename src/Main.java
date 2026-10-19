@@ -31,7 +31,7 @@ public class Main {
             if (ika == 65){
                 System.out.println("Hyviä eläkepäiviä!");
             }
-
+            //Tässä ohjelma ilmoittaa täysi-ikäisille, että he saavat ajaa autoa.
         } else if (ika == 18) {
             System.out.println("Olet täysi-ikäinen, saat ajaa autoa");
 
