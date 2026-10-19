@@ -2,7 +2,7 @@
 public class Main {
     public static void main(String[] args) {
 
-        int ika = 45;
+        int ika = 60;
 
         // Tässä tarkistetaan onko henkilö alaikäinen.
         if (ika > 0 && ika < 18) {
